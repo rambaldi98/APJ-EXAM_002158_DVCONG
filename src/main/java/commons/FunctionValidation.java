@@ -1,8 +1,8 @@
 package commons;
 
-import HandleException.BirthdayException;
-import HandleException.EmailException;
-import HandleException.PhoneNumberException;
+import handleException.BirthdayException;
+import handleException.EmailException;
+import handleException.PhoneNumberException;
 
 public class FunctionValidation {
     private static String pattern = "";

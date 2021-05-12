@@ -1,4 +1,4 @@
-package HandleException;
+package handleException;
 
 public class EmailException extends Exception{
     public EmailException(String message){
