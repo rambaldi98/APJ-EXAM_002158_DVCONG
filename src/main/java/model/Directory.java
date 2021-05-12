@@ -95,7 +95,7 @@ public class Directory {
                 + gender +"\t\t\t"
                 + address + "\t\t\t"
                 + birthday +"\t\t\t"
-                + email +"\t\t\t"
-                ;
+                + email +"\t\t\t";
+
     }
 }
